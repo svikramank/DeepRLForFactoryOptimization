@@ -1,0 +1,19 @@
+Critical Ratio 
+
+#### For 3e5 time steps ###
+
+Total wafers produced: 4796
+### Wafers of each head type ###
+{'ASGA': 540, 'CGUE': 540, 'FGUF': 536, 'GOUC': 530, 'H7UP': 530, 'LAUB': 530, 'LEUA': 530, 'MCUG': 530, 'MMUP': 530}
+
+
+
+
+
+DQN
+
+for ### for 3e5 timesteps ###
+Total wafers produced: 4796
+### Wafers of each head type ###
+{'ASGA': 401, 'CGUE': 558, 'FGUF': 546, 'GOUC': 565, 'H7UP': 497, 'LAUB': 504, 'LEUA': 592, 'MCUG': 571, 'MMUP': 562}
+
